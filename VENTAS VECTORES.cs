@@ -47,7 +47,7 @@ namespace ConsoleApp3
             Console.WriteLine($"Mayor venta ${mayorVenta:F2} - el dia {diaMayorVenta + 1} ");
             Console.WriteLine($"Menor venta ${menorVenta:F2} - el dia {diaMenorVenta + 1} ");
 
-            Console.WriteLine($"dias que superaron el promedio de ventas: ${diasSobrepromedio} ");
+            Console.WriteLine($"dias que superaron el promedio de ventas: {diasSobrepromedio} ");
             Console.WriteLine();
 
             Console.WriteLine("ventas por dias ");
