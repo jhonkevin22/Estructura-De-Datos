@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        const int estudiantes = 5;
+        const int estudiantes = 21;
 
         string[] nombres = new string[estudiantes];
         double[] notas = new double[estudiantes];
